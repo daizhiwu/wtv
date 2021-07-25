@@ -47,45 +47,6 @@ http://39.135.138.8:6610/PLTV/88888888/224/3221225909/2/index.m3u8?fmt=ts2hls
 #EXTINF:-1, CCTV-4K 超高清
 http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226998/index.m3u8
 
-
-#EXTINF:-1, CCTV 怀旧剧场 高清
-http://hdtv.haust.edu.cn/hls/hls184a518.m3u8
-
-#EXTINF:-1, CCTV 风云音乐 高清
-http://hdtv.haust.edu.cn/hls/hls184a519.m3u8
-
-#EXTINF:-1, CCTV 卫生健康 高清
-http://cdn.chxjon.cn/iptv/QQ582185381/gzyx.php?id=wsjk
-
-#EXTINF:-1, CCTV 兵器科技 高清
-http://hdtv.haust.edu.cn/hls/hls184a573.m3u8
-
-#EXTINF:-1, CCTV 第一剧场 高清
-http://hdtv.haust.edu.cn/hls/hls184a512.m3u8
-
-#EXTINF:-1, CCTV 电视指南 高清
-http://hdtv.haust.edu.cn/hls/hls186a88.m3u8
-
-#EXTINF:-1, CCTV 风云剧场 高清
-http://hdtv.haust.edu.cn/hls/hls184a516.m3u8
-
-#EXTINF:-1, CCTV 风云足球 高清
-http://hdtv.haust.edu.cn/hls/hls184a510.m3u8
-
-#EXTINF:-1, CCTV 高尔夫·网球 高清
-http://cdn.chxjon.cn/iptv/QQ582185381/gzyx.php?id=gefwq
-
-#EXTINF:-1, CCTV 女性时尚 高清
-http://hdtv.haust.edu.cn/hls/hls184a522.m3u8
-
-#EXTINF:-1, CCTV 世界地理 高清
-http://hdtv.haust.edu.cn/hls/hls184a515.m3u8
-
-#EXTINF:-1, CCTV 央视文化精品 高清
-http://hdtv.haust.edu.cn/hls/hls184a520.m3u8
-#EXTINF:-1, CCTV 央视台球 高清
-http://cdn.chxjon.cn/iptv/QQ582185381/gzyx.php?id=ystq
-
 #EXTINF:-1, 广东综艺 4K
 http://player.ioioz.com/1786/gd/gdtvm3u8.php?id=gdzy
 
@@ -103,6 +64,10 @@ http://39.135.138.8:6610/PLTV/88888888/224/3221225786/2/index.m3u8?fmt=ts2hls
 
 #EXTINF:-1, 爱上4K
 http://39.134.24.220/PLTV/88888888/224/3221226005/index.m3u8
+#EXTINF:-1 ,爱上4K 32M2160
+http://39.134.24.24/PLTV/88888888/224/3221226005/index.m3u8
+#EXTINF:-1 ,爱上4K 22M2160
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226352/index.m3u8
 
 #EXTINF:-1, BesTV 4K
 http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229311/01.m3u8?fmt=ts2hls
@@ -112,6 +77,10 @@ http://39.135.10.66/gz.ucdn.10086.cn/PLTV/88888888/224/3221226019/1.m3u8?fmt=ts2
 
 #EXTINF:-1, 4K超清-北京IPTV
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226550/1.m3u8
+#EXTINF:-1 ,北京IPTV淘电影 8M1080
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226552/1.m3u8
+#EXTINF:-1 ,北京IPTV淘剧场 8M1080
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226553/1.m3u8
 
 #EXTINF:-1, 咪咕4K
 http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226399/1.m3u8
