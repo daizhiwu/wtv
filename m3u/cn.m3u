@@ -47,14 +47,8 @@ http://39.135.138.8:6610/PLTV/88888888/224/3221225909/2/index.m3u8?fmt=ts2hls
 #EXTINF:-1, CCTV-4K 超高清
 http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226998/index.m3u8
 
-#EXTINF:-1, 广东综艺 4K
-http://player.ioioz.com/1786/gd/gdtvm3u8.php?id=gdzy
-
-#EXTINF:-1, 南国都市 4K
-http://hls222.dszbdq.cn/gdgz.php?id=gzsh
-
-#EXTINF:-1, 欢笑剧场 4K
-http://39.134.39.24/PLTV/88888888/224/3221226318/index.m3u8
+#EXTINF:-1 ,SiTV欢笑剧场4K 12M2160
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226582/index.m3u8
 
 #EXTINF:-1, 芒果TV 4K
 http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226887/index.m3u8
@@ -76,7 +70,7 @@ http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/322122931
 http://39.135.10.66/gz.ucdn.10086.cn/PLTV/88888888/224/3221226019/1.m3u8?fmt=ts2hls
 
 #EXTINF:-1, 4K超清-北京IPTV
-http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226550/1.m3u8
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226550/1.m3u8
 #EXTINF:-1 ,北京IPTV淘电影 8M1080
 http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226552/1.m3u8
 #EXTINF:-1 ,北京IPTV淘剧场 8M1080
